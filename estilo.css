@@ -1,0 +1,15 @@
+body {
+ background: green;
+ text-align: center; 
+ color: #270042;
+ }
+ a{color: red;
+
+ }
+ .negrito{
+ 	font-weight: bold;
+ 	text-decoration: underline;
+}
+#destaque{
+	font-weight: normal;
+}
